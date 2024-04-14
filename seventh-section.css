@@ -1,0 +1,44 @@
+.seventh-section {
+  font-family: roboto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 100px;
+}
+.Perfect {
+  font-size: 50px;
+  width: 540px;
+}
+.Simple  {
+  width: 700px;
+  height: 400px;
+  margin-right: 30px;
+}
+.Immerse {
+  margin-left: 10px;
+  width: 650px;
+  margin-top: 10px;
+}
+.Embrace {
+  width: 650px;
+  color: rgb(111, 111, 111);
+}
+.More {
+  margin-top: 30px;
+}
+.See {
+  padding: 12px 30px 12px 30px;
+  font-size: 20px;
+  color: white;
+  background-color: #FF5400;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #FF5400;
+  border-radius: 10px;
+  transition: 0.2s;
+}
+.See:hover {
+  background-color: black;
+  color: white;
+  border-color: black;
+}

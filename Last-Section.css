@@ -1,0 +1,81 @@
+.Last-Section {
+  display: flex;
+  flex-direction: row;
+  margin-top: 120px;
+  gap: 70px;
+  font-family: roboto;
+  margin-bottom: 160px;
+  margin-left: 200px;
+  
+}
+.News {
+  border-color: #FF5400;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 15px;
+  padding: 40px 90px 40px 40px;
+  height: 410px;
+}
+.Letter {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.Your {
+  color: rgb(137, 137, 137);
+  font-size: 18px;
+  width: 400px;
+  margin-bottom: 20px;
+}
+.NO {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(221, 215, 215);
+  margin-bottom: 30px;
+}
+.Name {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(255, 255, 255);
+  background-color: rgba(232, 232, 232, 0.55);
+  color: rgb(0, 0, 0);
+  padding: 14px 198px 14px 20px;
+  border-radius: 15px;
+  
+}
+.Enter {
+  color: rgb(252, 33, 33);
+
+}
+.Sub {
+  margin-top: 30px;
+  margin-left: 0px;
+  padding: 15px 156px 15px 156px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 15px;
+  border-color: #FF5400;
+  background-color: #FF5400;
+  align-items: center;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.5s;
+} 
+.Sub:hover {
+  background-color: black;
+  border-color: black;
+
+}
+.Com {
+  position: absolute;
+  top: 290px;
+  background-color: #FF5400;
+  color: rgb(255, 255, 255);
+  padding: 0px 90px 0px 90px;
+  border-radius: 8px;
+  left: 55%;
+  transform: rotate(-22deg);
+  font-size: 20px;
+  font-weight: 700;
+  
+}

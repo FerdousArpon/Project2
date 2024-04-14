@@ -1,0 +1,158 @@
+.Third-Section {
+  display: block;
+}
+
+.destination {
+  display: flex;
+  flex-direction: column;
+  row-gap: 0px;
+  align-items: center;
+}
+
+.Mal-Indo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  position: relative;
+  margin-top: 40px;
+}
+.M-L {
+  height: 310px;
+  width: 570px;
+  filter: brightness(0.6);
+  border-radius: 20px;
+}
+.Mal {
+  padding-left: 220px;
+}
+.Mali {
+  position: absolute;
+  top: 150px;
+  left: 490px;
+  color: white;
+  font-size: 25px;
+}
+.Indo {
+  padding-right: 220px;
+  position: relative;
+}
+.Indo-1 {
+  top: 150px;
+  right: 454px;
+  position: absolute;
+  color: white;
+  font-size: 25px;
+
+} 
+
+
+
+
+.Sia-ja-ka {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.img-size {
+  height: 310px;
+  width: 370px;
+  border-radius: 20px;
+  filter: brightness(0.6);
+ 
+}
+.si {
+  position: absolute;
+  top: 147px;
+  left: 140px;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+}
+.japan {
+  position: relative;
+}
+.img-size-j {
+  height: 310px;
+  width: 410px;
+  border-radius: 20px;
+  filter: brightness(0.6);
+}
+.ji {
+  position: absolute;
+  top: 147px;
+  left: 170px;
+  font-size: 22px;
+  color: white;
+}
+
+.img-size-k  {
+  height: 310px;
+  width: 350px;
+  border-radius: 20px;
+  filter: brightness(0.6);
+}
+.sia {
+  margin-left: 250px;
+  position: relative;
+}
+.kash {
+  margin-right: 250px;
+  position: relative;
+}
+.ka {
+  position: absolute;
+  top: 147px;
+  color: white;
+  font-size: 22px;
+  left: 138px;
+}
+
+
+.Tok-Hok {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  margin-left: 250px;
+  margin-top: 50px;
+}
+
+.Hokk {
+  width: 560px;
+  height: 310px;
+  border-radius: 20px;
+  filter: brightness(0.6);
+}
+.Tok {
+  width: 580px;
+  height: 310px;
+  border-radius: 20px;
+  filter: brightness(0.6);
+}
+.Hokkaido {
+  position: relative;
+}
+.hok {
+  position: absolute;
+  left: 238px;
+  top: 146px;
+  color: white;
+  font-size: 22px;
+
+} 
+.tok {
+ position: relative;
+}
+.tokyo {
+  position: absolute;
+  top: 0px;
+  color: white;
+  font-size: 22px;
+  left: 255px;
+  top: 146px;
+}
+
+
+
+
+
+

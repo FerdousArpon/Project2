@@ -1,0 +1,22 @@
+.Fifth-Section {
+  font-family: roboto;
+  margin-top: 90px;
+}
+.Memories {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Moments {
+  text-align: center;
+  width: 760px;
+}
+.pics {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: space-evenly;
+  row-gap: 40px;
+  column-gap: 20px;
+  margin-top: 60px;
+}
